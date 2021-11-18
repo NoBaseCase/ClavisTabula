@@ -1,0 +1,4 @@
+Notes:
+    ☐ If pip/python commands are not working, use pip3/python3
+    ☐ Reddit SSO requires the domain for the callback url and the Site Domain Name to be the EXACT SAME
+
